@@ -10,4 +10,18 @@ public class Libro {
         this.titulo = titulo;
 
     }
+    public void obtenerTituloPrecuela(){
+
+    }
+    public void obtenerTituloSecuela(){
+
+    }
+    public void mostrarResumenSaga(){
+
+    }
+    public void obtenerInformacion(){
+
+    }
+
+
 }
