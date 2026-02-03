@@ -8,6 +8,6 @@ public class Libro {
     public Libro (String autor, String titulo){
         this.autor = autor;
         this.titulo = titulo;
-        //ayuda
+
     }
 }
